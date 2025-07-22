@@ -128,6 +128,6 @@ export default function Portfolio() {
 					Gmail
 				</a>
 			</div>
-		</main>
+		</main>				
 	)
 }
